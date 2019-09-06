@@ -1,5 +1,5 @@
 # Basic Bro Container
-Repo is a container containing bro and broctl.  Running the image will start bro with ports 7000 - 7100 published on the host system.
+A container containing bro and broctl.  Running the image will start bro with ports 7000 - 7100 published on the host system.
 
 ## Building
 `./build.sh` will build the container
