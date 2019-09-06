@@ -9,7 +9,6 @@ Repo is a container containing bro and broctl.  Running the image will start bro
 
 
 ## broctl
-`install`
 `start`
 
 Bro is now up and running.
