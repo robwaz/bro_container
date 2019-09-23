@@ -1,7 +1,7 @@
 # /home/parallels/.config/tmuxinator/p.yml
 
 name: bro_testbench
-root: ~/bro_container/
+root: .
 
 # Optional tmux socket
 # socket_name: foo
